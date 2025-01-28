@@ -1,0 +1,268 @@
+{
+    "achievements": [
+        "Was awarded a <b>Silver Medal</b> for achieving <b>2nd rank</b> in a class of 100 students for Bachelor of Technology at IIT (ISM) Dhanbad.",
+        "Secured <b>3rd rank</b> in the district for the Standard 12th examination",
+        "Secured <b>4th rank</b> in the district for the Standard 10th examination",
+        "Secured a rank of 10,115 out of 1,300,000 candidates in the IIT-JEE Examination"
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Technology (Double Major)",
+            "in": "Computer Science and Engineering and Mining Enginnering",
+            "additional_info": "Silver Medallist",
+            "start": "April 2020",
+            "end": "April 2025",
+            "institute": "Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand",
+            "grades": {
+                "Mining Engineering": "9.00 (CGPA)",
+                "Computer Science and Engineering": "9.08 (CGPA)"
+            },
+            "passed": false,
+            "gradesheet_link": "https://drive.google.com/file/d/1BOmevT36dSW1GKqLISmaVbfm6tKSM5Ty/view?usp=sharing"
+        },
+        {
+            "degree": "12th",
+            "in": "ISC",
+            "additional_info": "Third in Burdwan District",
+            "start": "April 2018",
+            "end": "April 2020",
+            "institute": "East West Model School, Burdwan, West Bengal",
+            "grades": {
+                "Percentage": "97.0%"
+            },
+            "passed": true,
+            "gradesheet_link": null
+        },
+        {
+            "degree": "10th",
+            "in": "ICSE",
+            "additional_info": null,
+            "start": "April 2017",
+            "end": "April 2018",
+            "institute": "East West Model School, Burdwan, West Bengal",
+            "grades": {
+                "Percentage": "96.17%"
+            },
+            "passed": true,
+            "gradesheet_link": null
+        }
+    ],
+    "experience": [
+        {
+            "role": "Software Engineering Intern",
+            "start": "May 2024",
+            "end": "July 2024",
+            "ongoing": false,
+            "institute": "Sams Club - Walmart Global Technology",
+            "location": "Bengaluru, Karnataka",
+            "description": "Worked in the NextGen OMS PreFulfillment Team. Worked on the exception framework to manually retrigger an exception. Created a service that masks critical information in the APIs called. Worked on Performance Testing for the TTL Changes for order flow."
+        },
+        {
+            "role": "Data Science Intern",
+            "start": "Oct 2023",
+            "end": "May 2024",
+            "ongoing": false,
+            "institute": "SproutsAI",
+            "location": "Remote",
+            "description": "Worked on generating the Ideal Customer Profile for a company. Built a general classification tool using ReactJS and Flask for the company for binary classification problems. Worked on determining the customer acquisition cost for clients."
+        },
+        {
+            "role": "Research Intern",
+            "start": "May 2023",
+            "end": "July 2023",
+            "ongoing": false,
+            "institute": "Variable Energy Cyclotron Center (VECC), Department of Atomic Energy",
+            "location": "Kolkata, West Bengal",
+            "description": "Used forecasting models to forecast the noise in a signal captured by gamma-ray signal detector."
+        },
+        {
+            "role": "Project Assistant",
+            "start": "January, 2023",
+            "end": "June, 2023",
+            "institute": "Coal India Ltd.",
+            "location": "Dhanbad, Jharkhand",
+            "ongoing": false,
+            "description": "Worked on text recognition and optical character recognition for information retrieval from bids submitted for tenders released by Mahanadi Coalfields Ltd."
+        }
+    ],
+    "me": [
+        {
+            "name": "Ayan Mukherjee",
+            "role": "B.Tech. Student at IIT(ISM) Dhanbad",
+            "description": "I am currently pursuing a dual degree in Computer Science and Engineering, alongside Mining Engineering, at the prestigious Indian Institute of Technology (Indian School of Mines) Dhanbad. With a strong passion for research, I am particularly focused on applying advanced machine learning algorithms to address emerging challenges in medical and mechanical sciences. My academic journey has equipped me with a deep understanding of computational methods, including specialized experience in Physics-Informed Neural Networks (PINNs) and Computational Fluid Dynamics (CFD) simulations, which I aim to leverage in solving real-world, complex problems at the intersection of these fields.",
+            "photo": "images/me-good.jpeg",
+            "links": [
+                {
+                    "icon": "images/cv.svg",
+                    "url": "https://drive.google.com/file/d/1rv1lk2qRZGpm3na-JA80TjNjSA_OGjRj/view?usp=sharing",
+                    "alt": "My CV"
+                },
+                {
+                    "icon": "images/phone.png",
+                    "url": "+917501269373",
+                    "alt": "Phone Number"
+                },
+                {
+                    "icon": "images/gmail.png",
+                    "url": "mailto:mukherjeeayan0813@gmail.com",
+                    "alt": "E-Mail"
+                },
+                {
+                    "icon": "images/linkedin.png",
+                    "url": "https://www.linkedin.com/in/ayan-mukherjee-2b02a4222/",
+                    "alt": "Linkedin"
+                },
+                {
+                    "icon": "images/github.jpg",
+                    "url": "https://github.com/rix-cyning22",
+                    "alt": "Github Account"
+                },
+                {
+                    "icon": "images/medium.svg",
+                    "url": "https://medium.com/@mukherjeeayan0813",
+                    "alt": "Medium Page"
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "fMRI Image Segmentation",
+            "description": "Worked on an fMRI Image Segmentation Project with Prof. Sushanta Mukhopadhyay (Assistant Professor, Department of Computer Science and Engineering) using Deep Learning and Transfer Learning methods.",
+            "links": []
+        },
+        {
+            "title": "Virtual Painter",
+            "description": "Built an interactive virtual painting application using Python, OpenCV, and Mediapipe, leveraging hand gesture recognition for tool selection and canvas interaction in a modular, extensible architecture",
+            "links": [
+                {
+                    "url": "https://github.com/rix-cyning22/mediapipe-apps",
+                    "type_img": "images/github.jpg"
+                },
+                {
+                    "url": "https://drive.google.com/file/d/1Mu3nlHEh1LdMGjaEUmtl2YfdYl25Sr7X/view?usp=sharing",
+                    "type_img": "images/video.svg"
+                }
+            ]
+        },
+        {
+            "title": "Transformer",
+            "description": "Built a transformer with Pytorch, implementing the attention mechanism from <a href='https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf'>'Attention is All You Need' (2017)</a> and GPT4 byte-pair encoding for tokenization, with a Flask container for model interaction.",
+            "links": [
+                {
+                    "url": "https://github.com/rix-cyning22/attention-is-all-you-need",
+                    "type_img": "images/github.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Attentive Image Captioning",
+            "description": "Created a Python app with a variational auto-encoder model with visual attention techniques for automatic image captioning, aiding differently-abled individuals. Used pytorch for model development and utilized BERT for text vectorization.",
+            "links": [
+                {
+                    "url": "https://github.com/rix-cyning22/image-captioner",
+                    "type_img": "images/github.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Abstract Conciser",
+            "description": "Built an ML model integrating word embedding using transformers, character embedding and positional embedding, that skims through the abstract of a scientific literature and classifies the text into five categories - <i>'Objective'</i>, <i>'Background'</i>, <i>'Method'</i>, <i>'Results'</i>, <i>'Conclusion'</i>. Makes an abstract easier to read. Implemented the findings of <a href='https://arxiv.org/abs/1710.06071'>this research paper</a>.",
+            "links": [
+                {
+                    "url": "https://github.com/rix-cyning22/image-captioner",
+                    "type_img": "images/github.jpg"
+                }
+            ]
+        }
+    ],
+    "research_projects": [
+        {
+            "title": "NLP-Based Indian Coal Mining Accident Records Digitalization using Text Mining & Topic Modeling",
+            "guide": {
+                "name": "Prof. Siddhartha Agarwal",
+                "post": "Assistant Professor",
+                "location": "Department of Mining Engineering, IIT (ISM) Dhanbad",
+                "link": null
+            },
+            "description": "Used Latent Dirichlet Allocation to assess the reasons of mining accidents"
+        },
+        {
+            "title": "Baseline Noise Prediction for Gamma Ray Signals",
+            "guide": {
+                "name": "Ayan Banerjee",
+                "post": "Chief Scientific Officer",
+                "location": "VECC, Kolkata",
+                "link": null
+            },
+            "description": "Used forecasting models like RNNs and autoregressive LSTM to forecast the noise in a signal captured by gamma-ray signal detector"
+        }
+    ],
+    "skills": [
+        {
+            "field": "Machine Learning",
+            "technology": [
+                "Pytorch",
+                "Tensorflow2",
+                "Keras",
+                "Scikit-Learn"
+            ]
+        },
+        {
+            "field": "Computer Vision",
+            "technology": [
+                "OpenCV",
+                "Vision Models",
+                "Pytesseract (for OCR)"
+            ]
+        },
+        {
+            "field": "Programming Languages",
+            "technology": [
+                "Python",
+                "Java",
+                "C++",
+                "JavaScript"
+            ]
+        },
+        {
+            "field": "Natural Language Processing",
+            "technology": [
+                "Pytorch",
+                "NLTK",
+                "SpaCy3",
+                "HuggingFace",
+                "Pytorch Lightning"
+            ]
+        },
+        {
+            "field": "Web Development",
+            "technology": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "ReactJS",
+                "NodeJS"
+            ]
+        },
+        {
+            "field": "Others",
+            "technology": [
+                "Git",
+                "Object Oriented Programming",
+                "Data structures and Algorithms",
+                "DBMS",
+                "Operating Systems"
+            ]
+        }
+    ],
+    "extra_curricular": [
+        "A blogger at <a href='https://medium.com/@mukherjeeayan0813'>medium.com</a>. I like to write about Machine Learning projects and on the latest developments in the field of Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.",
+        "Mentor 10 students in the AI Club of <b>Naresh Vasisht Centre for Tinkering and Innovation, IIT (ISM) Dhanbad</b>",
+        "An active member of Fast Forward India, an NGO dedicated to educating underprivileged children."
+    ],
+    "por": [
+        "Student Coordinator of the AI Club of Naresh Vashisht Centre for Tinkering and Innovation, the innovation and incubation hub of IIT (ISM) Dhanbad",
+        "Member of the Drafting Team of the IIT (ISM) Student Chapter of Society of Mining, Metallurgy and Exploration (SME)"
+    ]
+}

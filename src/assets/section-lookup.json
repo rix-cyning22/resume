@@ -1,0 +1,47 @@
+[
+    {
+        "id": "me",
+        "label": "This is Me",
+        "component": "Me"
+    },
+    {
+        "id": "education",
+        "label": "Education",
+        "component": "EducationCard"
+    },
+    {
+        "id": "skills",
+        "label": "Skills",
+        "component": "Skill"
+    },
+    {
+        "id": "experience",
+        "label": "Experience",
+        "component": "ExperienceCard"
+    },
+    {
+        "id": "research_projects",
+        "label": "Research Projects",
+        "component": "ResearchCard"
+    },
+    {
+        "id": "projects",
+        "label": "Projects",
+        "component": "ProjectCard"
+    },
+    {
+        "id": "achievements",
+        "label": "Achievements",
+        "component": "Achievement"
+    },
+    {
+        "id": "extra_curricular",
+        "label": "Extra-Curricular Activities",
+        "component": "Achievement"
+    },
+    {
+        "id": "por",
+        "label": "Positions of Responsibility",
+        "component": "Achievement"
+    }
+]
