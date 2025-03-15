@@ -1,7 +1,7 @@
 # Resume App
 
 This is a React application that hosts my resume. The application is designed to be deployed on GitHub Pages.
-The website can be found at: https://rix-cyning22.github.io/resume-app
+The website can be found at: https://rix-cyning22.github.io/resume
 
 ## Built With
 
