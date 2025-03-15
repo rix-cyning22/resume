@@ -15,14 +15,14 @@
         "component": "Skill"
     },
     {
-        "id": "experience",
-        "label": "Experience",
-        "component": "ExperienceCard"
-    },
-    {
         "id": "research_projects",
         "label": "Research Projects",
         "component": "ResearchCard"
+    },
+    {
+        "id": "experience",
+        "label": "Experience",
+        "component": "ExperienceCard"
     },
     {
         "id": "projects",

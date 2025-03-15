@@ -94,7 +94,7 @@
             "links": [
                 {
                     "icon": "images/cv.svg",
-                    "url": "https://drive.google.com/file/d/1rv1lk2qRZGpm3na-JA80TjNjSA_OGjRj/view?usp=sharing",
+                    "url": "https://drive.google.com/file/d/1m9hX2VwhdCrqgzgE-LFM9QHzT9b1g_8l/view?usp=sharing",
                     "alt": "My CV"
                 },
                 {
@@ -178,12 +178,21 @@
     ],
     "research_projects": [
         {
+            "title": "A computational analysis of flow dynamics and heat transfer in a wavy patterned channel using Physics Informed Neural Networks (PINN) (Under Review at Physics of Fluids)",
+            "guide": {
+                "name": "Prof. Ameeya Kumar Nayak",
+                "post": "Professor",
+                "location": "Department of Mathematics, IIT Roorkee",
+                "link": "https://iitr.ac.in/Departments/Mathematics%20Department/People/Faculty/100616.html"
+            }
+        },
+        {
             "title": "NLP-Based Indian Coal Mining Accident Records Digitalization using Text Mining & Topic Modeling",
             "guide": {
                 "name": "Prof. Siddhartha Agarwal",
                 "post": "Assistant Professor",
                 "location": "Department of Mining Engineering, IIT (ISM) Dhanbad",
-                "link": null
+                "link": "https://www.linkedin.com/in/siddharth-agarwal-86179613/?originalSubdomain=in"
             },
             "description": "Used Latent Dirichlet Allocation to assess the reasons of mining accidents"
         },
